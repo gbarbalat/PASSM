@@ -30,3 +30,5 @@ using
 - https://github.com/CI-NYC/lcmmtp-application/blob/main/scripts/0-functions.R
 - https://github.com/nt-williams/medoutcon/blob/master/paper/paper.md (for single time-point mediator analysis)
 
+Missing data will likely be a problem as we expect a high rate of non-response. We will try and minimize missing data with a research assistant. Missing data in the final database will be processed with multiple imputation (ideally using Multiple Imputation by SuperLearning) and inverse probability of attrition weighting. 
+
